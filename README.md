@@ -15,7 +15,7 @@ This project was build during a [live in my Youtube Channel](https://www.youtube
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Fernanda-Kipper/live-crud-java-spring.git
+git clone https://github.com/ThiagoCrepequer/crud-spring
 ```
 
 2. Install dependencies with Maven
